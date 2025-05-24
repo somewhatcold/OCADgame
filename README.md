@@ -16,6 +16,15 @@ https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/propos
 
 <br>
 
+## Using Github Issues
+When working on a new feature, bug-fixes, or any new additions to the project, it's best practice to open a ticket via the Github Issues tab in order to keep track of who is working on what, as well as where they are in the creation of it. Additionally, pull-requests can be linked to different issue tickets which makes the organzation of commits much easier as a whole.
+<br>
+##### Detailed information about Github Issues: <br>
+https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues
+
+
+<br>
+
 ## Art Assets
 Assets or animations can be directly added to the project. For best practice, however, an upload of each asset should also be added to the game-art google drive to ensure easy access and organization. 
 
