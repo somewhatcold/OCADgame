@@ -19,7 +19,7 @@ https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/propos
 The main takeaway from this is to <ins>**NEVER WORK ON THE MAIN BRANCH DIRECTLY UNLESS YOU HAVE TOLD THE TEAM!**</ins>
 
 ##### Branch naming convention:
-[name] _ [BranchPurpose] --> ex. Janah_NewPlayerAnimations
+[name] _ [BranchPurpose] --> ex. Elmo_NewPlayerAnimations
 
 <br>
 
