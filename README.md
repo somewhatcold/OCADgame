@@ -13,6 +13,10 @@ https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/propos
 
 ##### Detailed information about pull-requests
 https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
+<br>
+<br>
+<br>
+The main takeaway from this is to <ins>**NEVER WORK ON THE MAIN BRANCH DIRECTLY UNLESS YOU HAVE TOLD THE TEAM!**</ins>
 
 <br>
 
@@ -21,6 +25,8 @@ When working on a new feature, bug-fixes, or any new additions to the project, i
 <br>
 ##### Detailed information about Github Issues: <br>
 https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues
+
+
 
 
 <br>
