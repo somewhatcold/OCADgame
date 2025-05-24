@@ -17,7 +17,7 @@ https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/propos
 <br>
 
 ## Art Assets
-Assets or animations can be directly added to the project. For best practice, however, an upload of each asset should also be uploaded to the game-art google drive to ensure easy access and organization. 
+Assets or animations can be directly added to the project. For best practice, however, an upload of each asset should also be added to the game-art google drive to ensure easy access and organization. 
 
 <br>
 
