@@ -16,7 +16,6 @@ https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/propos
 https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
 <br>
 <br>
-<br>
 The main takeaway from this is to <ins>**NEVER WORK ON THE MAIN BRANCH DIRECTLY UNLESS YOU HAVE TOLD THE TEAM!**</ins>
 
 ##### Branch naming convention:
