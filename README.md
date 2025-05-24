@@ -3,8 +3,6 @@
 ## Basic Info
 When working on this project, please work on your own seperate **<ins>branch</ins>** and create a **<ins>pull-request</ins>** before merging your changes to **MAIN** and ensuring there are no conflicts.
 
-##### Branch naming convention:
-[name] _ [BranchPurpose] --> ex. Janah_NewPlayerAnimations
 
 #### If unsure how to follow those guidelines, please feel free to ask anyone on the team for help or consult these resources: <br>
 
@@ -20,6 +18,9 @@ https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/propos
 <br>
 <br>
 The main takeaway from this is to <ins>**NEVER WORK ON THE MAIN BRANCH DIRECTLY UNLESS YOU HAVE TOLD THE TEAM!**</ins>
+
+##### Branch naming convention:
+[name] _ [BranchPurpose] --> ex. Janah_NewPlayerAnimations
 
 <br>
 
