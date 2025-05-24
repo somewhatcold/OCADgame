@@ -26,7 +26,8 @@ When working on a new feature, bug-fixes, or any new additions to the project, i
 ##### Detailed information about Github Issues: <br>
 https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues
 
-
+##### Branch naming convention:
+[name] _ [BranchPurpose] --> ex. Janah_NewPlayerAnimations
 
 
 <br>
