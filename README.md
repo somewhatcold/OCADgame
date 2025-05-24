@@ -35,7 +35,7 @@ https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues
 <br>
 
 ## Art Assets
-Assets or animations can be directly added to the project. For best practice, however, an upload of each asset should also be added to the game-art google drive to ensure easy access and organization. 
+Assets or animations can be directly added to the project. For best practice, however, an upload of each asset should also be added to the game-art google drive or discord channel to ensure easy access and organization. 
 
 <br>
 
