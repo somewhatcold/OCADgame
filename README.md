@@ -3,7 +3,10 @@
 ## Basic Info
 When working on this project, please work on your own seperate **<ins>branch</ins>** and create a **<ins>pull-request</ins>** before merging your changes to **MAIN** and ensuring there are no conflicts.
 
-#### If unsure how to do that, please feel free to ask anyone on the team for help or consult these resources: <br>
+##### Branch naming convention:
+[name] _ [BranchPurpose] --> ex. Janah_NewPlayerAnimations
+
+#### If unsure how to follow those guidelines, please feel free to ask anyone on the team for help or consult these resources: <br>
 
 ##### Video explaining the basics of Git, Github, and Github Desktop
 https://www.youtube.com/watch?v=8Dd7KRpKeaE <br>
@@ -26,8 +29,7 @@ When working on a new feature, bug-fixes, or any new additions to the project, i
 ##### Detailed information about Github Issues: <br>
 https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues
 
-##### Branch naming convention:
-[name] _ [BranchPurpose] --> ex. Janah_NewPlayerAnimations
+
 
 
 <br>
