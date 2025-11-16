@@ -40,4 +40,4 @@ Assets or animations can be directly added to the project. For best practice, ho
 <br>
 
 ## Packages
-Here there will be links to any Unity Packages or plug-ins which are used in the project and required when working on your own branch.
+Here there will be links to RPG Maker MZ plugins which are used in the project and required when working on your own branch. Additionally, this section can also be used as an easy database to access creator information necessary for credits.
