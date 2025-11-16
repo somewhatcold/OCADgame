@@ -1,5 +1,12 @@
 # OCADgame
 
+## IMPORTANT
+
+THIS IS AN ARCHIVE OF THE OLD .MAIN BRANCH WHICH CONTAINED THE ORIGINAL UNITY PROTOTYPE. DO NOT EDIT ANYTHING IN THIS BRANCH OR PUSH CHANGES. THIS EXISTS ONLY AS AN ARCHIVE.
+
+Thank you :D
+
+
 ## Basic Info
 When working on this project, please work on your own seperate **<ins>branch</ins>** and create a **<ins>pull-request</ins>** before merging your changes to **MAIN** and ensuring there are no conflicts.
 
